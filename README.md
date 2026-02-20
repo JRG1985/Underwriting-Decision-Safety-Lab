@@ -104,13 +104,13 @@ underwriting-decision-safety-lab/
 ├─ reports/
 │  └─ figures/                  # generated PNG charts
 └─ src/
-├─ pipeline.py               # main pipeline entrypoint
-├─ clean.py                  # cleaning + schema normalization
-├─ train.py                  # model training
-├─ calibrate.py              # sigmoid/isotonic calibration
-├─ abstention.py             # threshold sweep + policy recommendation
-├─ metrics.py                # ECE/Brier/etc
-└─ plots.py                  # figure generation
+   ├─ pipeline.py               # main pipeline entrypoint
+   ├─ clean.py                  # cleaning + schema normalization
+   ├─ train.py                  # model training
+   ├─ calibrate.py              # sigmoid/isotonic calibration
+   ├─ abstention.py             # threshold sweep + policy recommendation
+   ├─ metrics.py                # ECE/Brier/etc
+   └─ plots.py                  # figure generation
 
 ````
 
